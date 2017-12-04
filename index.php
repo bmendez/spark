@@ -130,7 +130,7 @@
           </div>
         </div>
         <div class="col-lg-4 col-md-4 views-row-2 col-xs-12 col-sm-12 hidden-xs">
-          <img src="./assets/img/servicios/iphone.png" alt="">
+          <img src="../assets/img/servicios/iphone.png" alt="">
         </div>
         <div class="col-lg-4 col-md-4 views-row-3 col-xs-12 col-sm-12">
           <div class="feature-box">
