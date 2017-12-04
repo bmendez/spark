@@ -43,16 +43,15 @@
 
   <nav id="menu_primary" class="navbar" role="navigation">
 		<div class="container">
-			<!-- <div class="navbar-header">
+			<div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 					<span class="sr-only">Toggle navigation</span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a href="./" class="navbar-brand"><img src="./public/assets/static/img/logo.png" alt=""></a>
-      </div> -->
-      <img src="/assets/img/logo-spark-v1.png" alt="">
+				<a href="./" class="navbar-brand"><img src="/assets/img/logo-spark-v2.png" alt="Spark TI"></a>
+      </div>      
 			<div class="collapse navbar-collapse">
 				<ul class="nav navbar-nav navbar-right">
           <li id="menu_item_nosotros"><a href="./nosotros">NOSOTROS</a></li>
